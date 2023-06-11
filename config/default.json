@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb://gautamrana603:Gautamrana@ac-4jyi8ld-shard-00-00.dp2diye.mongodb.net:27017,ac-4jyi8ld-shard-00-01.dp2diye.mongodb.net:27017,ac-4jyi8ld-shard-00-02.dp2diye.mongodb.net:27017/?ssl=true&replicaSet=atlas-lthava-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"6163079e62bcda786ab6",
+    "githubSecret":"3df134c9d81fc90335588484a312112aa866895d"
+}
